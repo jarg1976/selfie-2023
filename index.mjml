@@ -8,7 +8,7 @@
     </mj-raw>
     <mj-section background-color="#FF3FB4" padding="0px">
       <mj-column>
-        <mj-text color="#ffffff" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="https://joseaugustogoncalves.github.io/higiene-digital/" style="color:#ffffff;" target="_blank">browser</a>.</mj-text>
+        <mj-text color="#ffffff" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="https://jarg1976.github.io/selfie-2023/" style="color:#ffffff;" target="_blank">browser</a>.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#FFF" padding="0px">
@@ -33,14 +33,14 @@
     </mj-section>
     <mj-section background-color="#FFF" padding="10px">
       <mj-column width="100%">
-        <mj-image width="600px" src="img/alunos_report.png" align="center" border="none" padding="0px" alt="Higiene Digital"></mj-image>
+        <mj-image width="600px" src="https://jarg1976.github.io/selfie-2023/img/alunos_report.png" align="center" border="none" padding="0px" alt="Higiene Digital"></mj-image>
       </mj-column>
        
     </mj-section>
           
       <mj-section padding="0px"  background-color="#FFF">
       <mj-column>
-         <mj-image align="center" width="200px" src="img/logo-esjaloures.png" href="https://esjaloures.org" title="Agrupamento de Escolas José Afonso Loures" alt="Agrupamento de Escolas José Afonso Loures"></mj-image>
+         <mj-image align="center" width="200px" src="https://jarg1976.github.io/selfie-2023/img/logo-esjaloures.png" href="https://esjaloures.org" title="Agrupamento de Escolas José Afonso Loures" alt="Agrupamento de Escolas José Afonso Loures"></mj-image>
       </mj-column>
     </mj-section>
       
