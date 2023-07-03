@@ -1,0 +1,62 @@
+<mjml>
+  <mj-head>
+    <mj-title>Selfie 2023 ESJAL</mj-title>
+  </mj-head>
+  <mj-body>
+    <mj-raw>
+      <!-- Top Bar -->
+    </mj-raw>
+    <mj-section background-color="#FF3FB4" padding="0px">
+      <mj-column>
+        <mj-text color="#ffffff" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="https://joseaugustogoncalves.github.io/higiene-digital/" style="color:#ffffff;" target="_blank">browser</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFF" padding="0px">
+      <mj-column width="100%">
+        <mj-image width="600px" src="img/logo_selfie.jpeg" align="center" border="none" padding="0px" alt="Higiene Digital"></mj-image>
+      </mj-column>
+       <mj-column width="100%" background-color="#5e4f3c">
+          <mj-spacer height="15px" />
+      </mj-column>
+       <mj-column width="100%" background-color="#FF3FB4">
+          <mj-spacer height="15px" />
+      </mj-column> 
+    </mj-section>
+    
+    <mj-section background-color="#BFDBF7">
+      <mj-column width="100%">
+        <mj-text align="left" line-height="1.5" font-size="14px">
+          <p>Pequena introdução.
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFF" padding="10px">
+      <mj-column width="100%">
+        <mj-image width="600px" src="img/alunos_report.png" align="center" border="none" padding="0px" alt="Higiene Digital"></mj-image>
+      </mj-column>
+       
+    </mj-section>
+          
+      <mj-section padding="0px"  background-color="#FFF">
+      <mj-column>
+         <mj-image align="center" width="200px" src="img/logo-esjaloures.png" href="https://esjaloures.org" title="Agrupamento de Escolas José Afonso Loures" alt="Agrupamento de Escolas José Afonso Loures"></mj-image>
+      </mj-column>
+    </mj-section>
+      
+     <mj-section padding="0px">
+      <mj-column>
+        <mj-text mj-class="footer-text" align="center" padding="15px 10px">
+         
+          <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#111111; font-family: 'Open Sans', 'Raleway', Arial, Helvetica, sans-serif;">
+            <span style="color:#111111 !important; text-decoration:none;">
+              <strong>Escola Secundária de José Afonso (Escola sede)</strong>
+              <br />RUA da REPÚBLICA 2670 - 468 LOURES | Tel. +351 21 982 71 10 | Email esjaloures@esjaloures.org
+            </span>
+            <br />
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
